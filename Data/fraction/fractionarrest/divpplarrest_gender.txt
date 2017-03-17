@@ -1,0 +1,1 @@
+divergencevaluearrest_M:0.00068,divergencevaluearrest_F:0.00068,

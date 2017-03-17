@@ -1,0 +1,18 @@
+{"divergencevaluesearchedQsb_outln": 0.226583, "divergencevaluesearchPsb_admis": 0.170074, 
+"divergencevaluesearchWsb_admis": 0.404236, 
+"divergencevaluefriskedWsb_outln": 0.34063, "divergencevaluefriskedQBrf_verbl": 0.292035,
+ "divergencevaluefriskedPsb_outln": 0.153575, "divergencevaluefriskWrf_knowl": 0.144869, 
+"divergencevaluefriskedWrf_verbl": 0.399998, "divergencevaluefriskedPrf_verbl": 0.195111, 
+"divergencevaluesearchQBsb_admis": 0.348035}
+
+
+[('divergencevaluesearchWsb_admis', 0.404236), 
+('divergencevaluefriskedWrf_verbl', 0.399998), 
+('divergencevaluesearchQBsb_admis', 0.348035),
+ ('divergencevaluefriskedWsb_outln', 0.34063),
+ ('divergencevaluefriskedQBrf_verbl', 0.292035),
+ ('divergencevaluefriskedQBsb_outln', 0.226583),
+('divergencevaluefriskedPrf_verbl', 0.195111), 
+('divergencevaluesearchPsb_admis', 0.170074),
+ ('divergencevaluefriskedPsb_outln', 0.153575), 
+('divergencevaluefriskWrf_knowl', 0.144869)])

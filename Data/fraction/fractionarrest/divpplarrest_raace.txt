@@ -1,0 +1,1 @@
+divergencevaluearrest_B:0.003424,divergencevaluearrest_P:0.031166,divergencevaluearrest_Q:0.013394,divergencevaluearrest_W:0.028548,
